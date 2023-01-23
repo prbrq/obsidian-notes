@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Директива Region.md",
+                "file": "Base/LINQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Директива Region.md",
+                "file": "Base/LINQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Директива Region.md"
+                "file": "Base/LINQ.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Директива Region.md",
+                "file": "Base/LINQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "7b1e5c5c984001fb",
   "lastOpenFiles": [
-    "Base/Делегат.md",
-    "Base/Директива Region.md",
-    "Base/Func.md",
-    "Base/Лямбда-выражения.md",
-    "Base/Возведение в квадрат.md",
-    "Base/Boxing и unboxing.md",
-    "Base/Action.md",
-    "Base/Abstract.md",
-    "Base/Ленивая коллекция.md",
-    "Base/yield return.md"
+    "Base/IEnumerable.md",
+    "Base/LINQ.md",
+    "Base/Методы расширения.md",
+    "Base/yield return.md",
+    "Base/Virtual.md",
+    "Base/Upcast и Downcast.md",
+    "Base/Struct.md",
+    "Base/ref.md",
+    "Base/readonly или const.md",
+    "Base/Queue и Stack.md"
   ]
 }

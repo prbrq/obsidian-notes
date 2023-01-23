@@ -1,5 +1,5 @@
 
-```
+```cs
 int[] someInts = new int[] { 1, 2, 3 };
 Array someIntsAsArray = someInts;
 someInts[0] = 4;
