@@ -147,3 +147,28 @@ var groups = names
 ```
 
 В некотором смысле `GroupBy` — это метод противоположный по действию методу `SelectMany`. `GroupBy` создает группы, а `SelectMany` из списка групп делает плоский список.
+
+---
+
+# ToDictionary и ToLookup
+
+Нередко встречается необходимость, сгруппировав элементы, преобразовать их в структуру данных для поиска группы по ключу группировки. Это можно сделать с помощью метода `ToDictionary()`.
+
+```cs
+string[] names = { "Pavel", "Peter", "Andrew", "Anna", "Alice", "John" };
+
+Dictionary<char, List<string>> namesByLetter = names
+    .GroupBy(name => name[0])
+    .ToDictionary(group => group.Key, group => group.ToList());
+```
+
+Но еще проще воспользоваться специальным методом `ToLookup()`:
+```cs
+string[] names = { "Pavel", "Peter", "Andrew", "Anna", "Alice", "John" };
+
+ILookup<char, string> namesByLetter = names.ToLookup(name => name[0], name => name);
+
+var noNames = namesByLetter['Z']; // возвращает пустое перечисление
+```
+
+`ILookup` по неизвестному ключу возвращает пустую коллекцию. Часто это удобнее, чем поведение Dictionary, который в такой ситуации бросает исключение.
