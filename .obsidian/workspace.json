@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/LINQ.md",
+                "file": "Base/Событие (event).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/LINQ.md",
+                "file": "Base/Событие (event).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/LINQ.md"
+                "file": "Base/Событие (event).md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/LINQ.md",
+                "file": "Base/Событие (event).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "7b1e5c5c984001fb",
   "lastOpenFiles": [
-    "Base/Кортежи.md",
+    "Base/Статические и динамические методы.md",
+    "Base/Событие (event).md",
+    "Base/Делегат.md",
     "Base/LINQ.md",
+    "Base/Кортежи.md",
     "Base/Полиморфизм.md",
     "Base/Перегрузка операторов.md",
     "Base/Необязательные параметры и значения по умолчанию.md",
     "Base/Конструктор класса.md",
-    "Base/IEnumerable.md",
-    "Base/Методы расширения.md",
-    "Base/yield return.md",
-    "Base/Virtual.md"
+    "Base/IEnumerable.md"
   ]
 }
