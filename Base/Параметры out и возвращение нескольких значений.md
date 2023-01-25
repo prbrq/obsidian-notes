@@ -1,4 +1,6 @@
 
+[[Статические и динамические методы|Метод]] может возвращать больше одного значения с помощью ключевого слова `out`.
+
 ```cs
 public static int ReturnThreeValues(int value, out double half, out double twice)
 {
@@ -7,7 +9,6 @@ public static int ReturnThreeValues(int value, out double half, out double twice
     return value + 1;
 }
 ```
-
 
 ```cs
 var outTest = ReturnThreeValues(2, out double halfTest, out double twiceTest);

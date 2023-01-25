@@ -1,5 +1,6 @@
 
 В данном примере реализовано нахождение максимального значения из массива любого типа с интерфейсом [[Реализация IComparable|IComparable]].
+
 ```cs
 namespace GenericMethodSample
 {

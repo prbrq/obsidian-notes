@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Событие (event).md",
+                "file": "Base/Обход лабиринта в глубину, рекурсия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Событие (event).md",
+                "file": "Base/Обход лабиринта в глубину, рекурсия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Событие (event).md"
+                "file": "Base/Обход лабиринта в глубину, рекурсия.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Событие (event).md",
+                "file": "Base/Обход лабиринта в глубину, рекурсия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "7b1e5c5c984001fb",
   "lastOpenFiles": [
-    "Base/Статические и динамические методы.md",
-    "Base/Событие (event).md",
+    "Base/Теория графов.md",
     "Base/Делегат.md",
     "Base/LINQ.md",
-    "Base/Кортежи.md",
-    "Base/Полиморфизм.md",
-    "Base/Перегрузка операторов.md",
-    "Base/Необязательные параметры и значения по умолчанию.md",
-    "Base/Конструктор класса.md",
-    "Base/IEnumerable.md"
+    "Base/Классы и объекты.md",
+    "Base/yield return.md",
+    "Base/Visual Studio.md",
+    "Base/Virtual.md",
+    "Base/Upcast и Downcast.md",
+    "Base/Struct.md",
+    "Base/ref.md"
   ]
 }
