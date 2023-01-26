@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c45b7db64135c629",
+        "id": "e64af039a4a4c763",
         "type": "tabs",
         "children": [
           {
-            "id": "7b1e5c5c984001fb",
+            "id": "01a899f8e6dc25d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Обход лабиринта в глубину, рекурсия.md",
-                "mode": "source",
+                "file": "Base/Shuffle для List.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Обход лабиринта в глубину, рекурсия.md",
+                "file": "Base/Shuffle для List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Обход лабиринта в глубину, рекурсия.md"
+                "file": "Base/Shuffle для List.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Обход лабиринта в глубину, рекурсия.md",
+                "file": "Base/Shuffle для List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +146,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7b1e5c5c984001fb",
+  "active": "01a899f8e6dc25d8",
   "lastOpenFiles": [
+    "Base/Необязательные параметры и значения по умолчанию.md",
+    "Base/Методы расширения.md",
+    "Base/Обход лабиринта в ширину, очередь.md",
+    "Base/Обход лабиринта в глубину, стек.md",
+    "Base/Обход лабиринта в глубину, рекурсия.md",
+    "Base/Методы.md",
     "Base/Теория графов.md",
     "Base/Делегат.md",
     "Base/LINQ.md",
-    "Base/Классы и объекты.md",
-    "Base/yield return.md",
-    "Base/Visual Studio.md",
-    "Base/Virtual.md",
-    "Base/Upcast и Downcast.md",
-    "Base/Struct.md",
-    "Base/ref.md"
+    "Base/Классы и объекты.md"
   ]
 }
