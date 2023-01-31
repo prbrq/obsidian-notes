@@ -1,0 +1,7 @@
+
+```cs
+Dispatcher.Invoke(() =>
+{
+    // код
+});
+```
