@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd735ddc3ca7215d",
+        "id": "00bb28bf53382d51",
         "type": "tabs",
         "children": [
           {
-            "id": "84cdf0a303bc4fe6",
+            "id": "bae0cbd6dd998b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Алгоритмы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "поток",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Алгоритмы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Алгоритмы.md"
+              }
             }
           },
           {
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Алгоритмы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +146,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "84cdf0a303bc4fe6",
+  "active": "bae0cbd6dd998b49",
   "lastOpenFiles": [
-    "Base/Обновление элементов UI из не главного потока.md",
+    "Base/Связанные списки и массивы.md",
+    "Base/Сортировка выбором.md",
+    "Base/Алгоритмы.md",
+    "Base/Копирование из одной переменной в другую с использованием XOR.md",
+    "Base/Сложность алгоритмов.md",
     "Base/Многопоточность.md",
+    "Base/Обновление элементов UI из не главного потока.md",
     "Base/Свойства.md",
     "Base/Атрибуты.md",
-    "Base/Сериализация.md",
-    "Base/Сериализация с помощью JsonSerializer.md",
-    "Base/Сериализация с помощью рефлексии.md",
-    "Base/Рефлексия.md",
-    "Base/Целостность данных.md",
-    "Base/Ключевое слово as и is.md"
+    "Base/Сериализация.md"
   ]
 }
