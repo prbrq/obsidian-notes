@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a06e8aece84f02c5",
+        "id": "b0713b694e8f0573",
         "type": "tabs",
         "children": [
           {
-            "id": "3492c20e76c59c05",
+            "id": "ca52dac23cfe4819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/SQL.md",
-                "mode": "preview",
+                "file": "Base/Entity Framework.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/SQL.md",
+                "file": "Base/Entity Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/SQL.md"
+                "file": "Base/Entity Framework.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/SQL.md",
+                "file": "Base/Entity Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,17 +147,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3492c20e76c59c05",
+  "active": "ca52dac23cfe4819",
   "lastOpenFiles": [
-    "Base/Алгоритм планирования встреч.md",
-    "Base/SQL.md",
-    "Base/Сравнение экземпляров классов с помощью Equals().md",
-    "Base/Алгоритмы.md",
-    "Base/Жадный алгоритм.md",
-    "Base/Сложность алгоритмов.md",
-    "Base/Евклидов алгоритм.md",
-    "Base/Protected.md",
-    "Base/Abstract.md",
-    "Base/Связанные списки и массивы.md"
+    "Base/Entity Framework.md",
+    "Base/Безопасность.md",
+    "Base/Ключевое слово using.md",
+    "Base/ООП.md",
+    "Base/ILSpy.md",
+    "Base/Сборки, пакеты и пространства имен.md",
+    "Base/dotNet.md",
+    "Base/Кортежи.md",
+    "Base/Методы расширения.md",
+    "Base/IDisposable.md",
+    "Base/Финализатор.md",
+    "Base/Struct.md",
+    "Base/switch выражение.md",
+    "Base/Таблица в консоли.md"
   ]
 }
