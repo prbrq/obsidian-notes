@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Многопоточность.md"
+                "file": "Base/CRUD.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "96108f52f6f00402",
+  "active": "17a7768b5310c472",
   "lastOpenFiles": [
-    "Base/GUI-приложения.md",
+    "Base/Принципы объектно-ориентированного проектирования.md",
+    "Base/CRUD.md",
+    "Base/ООП.md",
     "Base/Многопоточность.md",
+    "Base/GUI-приложения.md",
     "Base/LINQ.md",
     "Base/Entity Framework.md",
     "Base/Безопасность.md",
     "Base/Ключевое слово using.md",
-    "Base/ООП.md",
     "Base/ILSpy.md",
     "Base/Сборки, пакеты и пространства имен.md",
     "Base/dotNet.md"
