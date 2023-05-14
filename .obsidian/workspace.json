@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4b251b3dcfc30d",
+        "id": "3421b36f7e8fee57",
         "type": "tabs",
         "children": [
           {
-            "id": "17a7768b5310c472",
+            "id": "7c874dff915a4bc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CRUD.md",
-                "mode": "source",
+                "file": "Base/Visual Studio.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "832d38d91e04a489",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/CRUD.md",
+                "file": "Base/Visual Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/CRUD.md"
+                "file": "Base/Visual Studio.md"
               }
             }
           },
@@ -123,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/CRUD.md",
+                "file": "Base/Visual Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +154,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "17a7768b5310c472",
+  "active": "7c874dff915a4bc5",
   "lastOpenFiles": [
-    "Base/Принципы объектно-ориентированного проектирования.md",
+    "Base/Virtual.md",
+    "Base/Директива Region.md",
+    "Base/Безопасность.md",
+    "Base/Атрибуты.md",
+    "Base/Алгоритмы.md",
+    "Base/Алгоритм планирования встреч.md",
+    "Base/Visual Studio.md",
+    "Base/yield return.md",
+    "Base/SQL.md",
+    "Base/StringBuilder.md",
+    "Base/Shuffle для List.md",
+    "Base/ref.md",
+    "Base/LINQ.md",
     "Base/CRUD.md",
+    "Base/Принципы объектно-ориентированного проектирования.md",
     "Base/ООП.md",
     "Base/Многопоточность.md",
     "Base/GUI-приложения.md",
-    "Base/LINQ.md",
     "Base/Entity Framework.md",
-    "Base/Безопасность.md",
     "Base/Ключевое слово using.md",
     "Base/ILSpy.md",
     "Base/Сборки, пакеты и пространства имен.md",
