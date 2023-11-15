@@ -1,10 +1,7 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "Files",
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
