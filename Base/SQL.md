@@ -97,31 +97,6 @@ WHERE condition
 
 ---
 
-# CASE
-
-Общий синтаксис:
-```sql
-CASE
-	WHEN condition1 THEN result1
-	WHEN condition2 THEN result2
-	WHEN conditionN THEN resultN
-	ELSE result
-END AS aliasName
-```
-
-Пример:
-```sql
-SELECT s_tmc, 
-CASE 
-	WHEN s_tmc > 30 THEN 'Больше 30'
-	WHEN s_tmc = 30 THEN 'Равно 30'
-	ELSE 'Меньше 30'
-END AS s_tmcText
-FROM i_ostTmc
-```
-
----
-
 # Хранимые процедуры
 
 Это SQL-код, который можно сохранить, чтобы затем повторно его использовать. Вызывать хранимую процедуру можно с параметрами.
