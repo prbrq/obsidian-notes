@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "727f5b6cac400136",
+    "type": "split",
+    "children": [
+      {
+        "id": "3abab1fb1d1af760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15c028cade24ea78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/OOP/SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5ce7b5c617e865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/OOP/Single-Responsibility Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e7d1e5535448afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/OOP/Open-Closed Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40745e7b3aaff80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/OOP/Interface Segregation Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f230f22401040c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/OOP/SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3cffd066011daae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/DotNet/yield return.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01339b28da425e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f792c8ee3ec4b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b0a02c5afa8450",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "394d5b2e063f1f07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5c610547ffcecc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3c2fcf324343c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8534f3a4b974b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95dea56ee236fbc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/DotNet/yield return.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a242c10626ab666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/DotNet/yield return.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50a8da6652ce7ae1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a96579675549201",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/DotNet/yield return.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3cffd066011daae",
+  "lastOpenFiles": [
+    "Base/DotNet/Лямбда-выражения.md",
+    "Base/DotNet/Generic метод.md",
+    "Base/DotNet/Использование статических классов.md",
+    "Base/Linux/Добавление локали.md",
+    "Base/DotNet/Загрузка связанных сущностей.md",
+    "Base/DotNet/Инфраструктурный код.md",
+    "Base/Linux/Установка приложения для чтения PDF по умолчанию.md",
+    "Base/DotNet/ООП.md",
+    "Base/OOP/SOLID.md",
+    "Base/OOP/Dependency Inversion Principle.md",
+    "Base/OOP/Interface Segregation Principle.md",
+    "Base/OOP/Liskov Substitution Principle.md",
+    "Base/OOP/Open-Closed Principle.md",
+    "Base/OOP/Single-Responsibility Principle.md",
+    "README.md",
+    "Base/OOP",
+    "Untitled",
+    "Files/Pasted image 20240405091549.png",
+    "Files/Pasted image 20240404201655.png",
+    "Files/Pasted image 20240404200551.png",
+    "Base/DotNet/Основы HTTP.md",
+    "LICENSE",
+    "Base/Linux",
+    "Base/DotNet/Реализация IComparable.md",
+    "Base/DotNet/Boxing и unboxing.md",
+    "Base/DotNet/Целостность данных.md",
+    "Base/DotNet/Суть динамических методов.md",
+    "Base/Стыдные вопросы.md",
+    "Base/Сложность алгоритмов.md",
+    "Base/Основы HTTP.md",
+    "Base/Generic метод.md",
+    "Base/yield return.md",
+    "Base/Плавающая запятая (точка).md",
+    "Untitled.canvas",
+    "Files/Pasted image 20230109205747.png",
+    "Files/sZud59XL28.gif",
+    "Files/PlnD25MLL8.gif",
+    "Files/PlnD25MLL8 1.gif",
+    "Files/lFLxi1Yv4a.gif"
+  ]
+}
