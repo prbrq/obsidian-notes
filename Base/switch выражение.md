@@ -1,4 +1,5 @@
-
+ Никак не могу запомнить синтаксис switch-выражений, поэтому #LEARN.
+ 
 ```cs
 var random = new Random();
 
